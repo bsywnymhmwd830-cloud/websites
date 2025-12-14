@@ -1,3 +1,4 @@
+![Uploading IMG_20251201_201314_511.webp…]()
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
